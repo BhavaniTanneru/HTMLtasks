@@ -1,0 +1,59 @@
+.container{
+    height: 700px;
+    width: 1260px;
+    border:2px solid black;
+    padding: 2%;
+    position: relative;
+}
+.firstcontainer{
+    padding: 2%;
+    /* height: 300px; */
+    width: 1230px;
+    border:2px solid red;
+}
+.secondcontainer{
+    padding: 2%;
+      /* height: 300px; */
+    width: 1230px;
+    border:2px solid red;
+}
+.one{
+     position: relative;
+    display: inline-block;
+    /* height: 300px; */
+    width: 300px;
+    border:2px solid green;
+}
+.two{
+     position: relative;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    border:2px solid green;
+}
+.three{
+     position: relative;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    border:2px solid green;
+}
+.four{
+     position: relative;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    border:2px solid green;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+h3{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+    padding: 10px;
+}
